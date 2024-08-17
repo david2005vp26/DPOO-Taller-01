@@ -1,0 +1,13 @@
+tipo:ACPM:30000:39900.0
+tipo:Extra:20000:24880.0
+tipo:Corriente:15000:19996.0
+tipo:Plus:25000:29996.0
+surtidor:Paula:ACPM:100.0:Extra:0.0:Corriente:0.0:Plus:0.0
+surtidor:Paula:ACPM:0.0:Extra:120.0:Corriente:0.0:Plus:0.0
+surtidor:Paula:ACPM:0.0:Extra:0.0:Corriente:4.0:Plus:0.0
+surtidor:Cecilia:ACPM:0.0:Extra:0.0:Corriente:0.0:Plus:4.0
+empleado:Camilo:0
+empleado:Cecilia:100000
+empleado:David:0
+empleado:Nhora:0
+empleado:Paula:5460000
